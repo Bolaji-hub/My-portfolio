@@ -3,6 +3,7 @@ import React from "react";
 const About = () => {
   return (
     <div
+      id="about"
       name="about"
       className="w-full min-h-screen bg-gradient-to-b from-gray-800 to-black text-white"
     >
@@ -13,21 +14,27 @@ const About = () => {
           </p>
         </div>
         <p className="text-xl mt-20">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempora optio
-          totam iste voluptatem cumque vel, eaque voluptatum eligendi omnis, aut
-          suscipit corrupti, illo ducimus beatae nulla magnam et. Voluptate,
-          nobis voluptates. Similique quae quam, sunt consequuntur earum facere
-          eius iure voluptate sint molestias recusandae amet aliquid, asperiores
-          natus doloribus dolore?
+          I am skilled in creating and maintaining high-quality websites that
+          are visually appealing, user-friendly, and technically sound. With a
+          strong experience in a variety of programming languages and
+          frameworks, I am able to tackle complex projects and deliver
+          successful solutions for my clients. I am committed to staying
+          up-to-date with the latest web development technologies and best
+          practices, and I have a passion for continuously learning and
+          improving my skills.
         </p>
         <br />
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, ex.
-          Doloribus nemo molestiae nostrum harum placeat ut tempore quidem
-          perspiciatis, consequatur possimus rerum, ea, autem accusantium
-          quibusdam nobis voluptatum! Odit recusandae esse laboriosam deserunt
-          hic repellat iste officiis doloremque quod temporibus, sint in eveniet
-          tempore, unde nostrum nisi beatae ad?
+          I am also a team player and enjoy collaborating with others to bring
+          ideas to life. In my previous roles, I have worked on a range of web
+          development projects, including building and maintaining corporate
+          websites, creating custom web applications, and optimizing websites
+          for search engines. I have a strong portfolio of work that showcases
+          my abilities and the results I have achieved for my clients. I am
+          excited to bring my skills and experience to new challenges and
+          opportunities as a web developer. Whether you are in need of a simple
+          website refresh or a complex custom application, I am confident that I
+          can deliver the solutions you need.
         </p>
       </div>
     </div>
