@@ -9,11 +9,11 @@ const About = () => {
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-8">
-          <p className="text-4xl font-bold inline border-b-4 border-gray-500">
+          <p className="text-4xl font-bold p-2 inline border-b-4 mb-4 border-gray-500">
             About
           </p>
         </div>
-        <p className="text-xl mt-20">
+        <p className="text-xl mt-26">
           I am skilled in creating and maintaining high-quality websites that
           are visually appealing, user-friendly, and technically sound. With a
           strong experience in a variety of programming languages and
