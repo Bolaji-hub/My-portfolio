@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
-import { Link } from "react-scroll";
+//import { Link } from "react-scroll";
 
 const NavBar = () => {
   const [nav, setNavBar] = useState(false);
@@ -22,10 +22,12 @@ const NavBar = () => {
     {
       id: 4,
       title: "Experience",
+      to: "/Experience",
     },
     {
       id: 5,
       title: "Contact",
+      to: "/Contact",
     },
   ];
   return (

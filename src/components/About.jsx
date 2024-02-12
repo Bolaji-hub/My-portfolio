@@ -13,7 +13,7 @@ const About = () => {
             About
           </p>
         </div>
-        <p className="text-xl mt-26">
+        <p className="text-lg mt-26 ">
           I am skilled in creating and maintaining high-quality websites that
           are visually appealing, user-friendly, and technically sound. With a
           strong experience in a variety of programming languages and
@@ -24,7 +24,7 @@ const About = () => {
           improving my skills.
         </p>
         <br />
-        <p className="text-xl">
+        <p className="text-lg">
           I am also a team player and enjoy collaborating with others to bring
           ideas to life. In my previous roles, I have worked on a range of web
           development projects, including building and maintaining corporate

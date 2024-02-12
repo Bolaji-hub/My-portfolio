@@ -1,4 +1,5 @@
 import React from "react";
+import image from "../assets/image.png";
 import { MdKeyboardArrowRight } from "react-icons/md";
 const Home = () => {
   return (
@@ -23,6 +24,13 @@ const Home = () => {
               </span>
             </button>
           </div>
+        </div>
+        <div>
+          <img
+            src={image}
+            alt=""
+            className="rounded-2xl mx-auto w-2/3 md:w-full"
+          />
         </div>
       </div>
     </div>
